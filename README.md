@@ -35,16 +35,15 @@
 ```c
 struct Developer {
     char   handle[]        = "Anubhav.exe_0/7";
-    char   role[]          = "Data Science Student";
+    char   role[]          = "CSE (Data Science) - 2nd Year Student";
     char   status[]        = "Currently debugging life & code";
     char   languages[][10] = {"C", "C++", "Python"};
     char   tools[][15]     = {"NumPy", "Pandas"};
-    char   web[][10]       = {"HTML", "CSS"};
     char   mission[]       = "Turning raw data into real decisions.";
 };
 ```
 
-I'm a student learning to think in **data** — cleaning it, modeling it, and asking it the right questions. Currently building a foundation in core programming (`C`, `C++`) while moving into the `Python` data-science stack (`NumPy`, `Pandas`). I also pick up `HTML`/`CSS` purely to design clean web pages when a project needs a face.
+I'm a 2nd-year Computer Science (Data Science) student, learning to think in **data** — cleaning it, modeling it, and asking it the right questions. Beyond the code, my mind is usually 🤔 turning over some random idea, looking for the next small thing worth building.
 
 No shortcuts. Just compiling knowledge, one error at a time.
 
@@ -128,7 +127,17 @@ Strengthening logic and problem-solving through C and C++ — the foundation eve
 
 </div>
 
-> These graphs pull from your real GitHub activity automatically — every commit you push updates them on their own. Nothing to edit manually, ever.
+### 📅 Contribution Calendar
+
+<div align="center">
+
+
+
+![Anubhav's Contribution Calendar](https://ghchart.rshah.org/8a2be2/Anubhav-07CODER)
+
+
+
+</div>
 
 ---
 
