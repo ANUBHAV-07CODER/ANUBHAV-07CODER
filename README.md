@@ -2,21 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=ANUBHAV.EXE_0%2F7&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Decoding%20Data%20%7C%20Discovering%20Patterns%20%7C%20Still%20Compiling...&descAlignY=55&descSize=16" width="100%"/>
 
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Anubhav-07CODER&color=8a2be2&style=for-the-badge&label=NEURAL+LINK+HITS)
-
-
-
-
 ![Followers](https://img.shields.io/github/followers/Anubhav-07CODER?style=for-the-badge&color=8a2be2&label=FOLLOWERS)
-
-
-
-
 ![Stars](https://img.shields.io/github/stars/Anubhav-07CODER?style=for-the-badge&color=00ffff&label=TOTAL%20STARS)
-
-
 
 </div>
 
@@ -30,23 +18,6 @@
 > COMPILING FUTURE....................[ ████████░░ 80% ]
 ```
 
-## > whoami
-
-```c
-struct Developer {
-    char   handle[]        = "Anubhav.exe_0/7";
-    char   role[]          = "CSE (Data Science) - 2nd Year Student";
-    char   status[]        = "Currently debugging life & code";
-    char   languages[][10] = {"C", "C++", "Python"};
-    char   tools[][15]     = {"NumPy", "Pandas"};
-    char   mission[]       = "Turning raw data into real decisions.";
-};
-```
-
-I'm a 2nd-year Computer Science (Data Science) student, learning to think in **data** — cleaning it, modeling it, and asking it the right questions. Beyond the code, my mind is usually 🤔 turning over some random idea, looking for the next small thing worth building.
-
-No shortcuts. Just compiling knowledge, one error at a time.
-
 ---
 
 ## > ls -la /skills/
@@ -59,41 +30,14 @@ No shortcuts. Just compiling knowledge, one error at a time.
 
 <br>
 
-**Data Science Stack**
-
-
+<div align="center">
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-
-
-
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
-
----
-
-## > cat /etc/focus.conf
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-📊 **Data Handling**
-
-Learning to clean, structure, and explore raw datasets using NumPy & Pandas before any model ever sees them.
-
-</td>
-<td align="center" width="50%">
-
-🧮 **Programming Fundamentals**
-
-Strengthening logic and problem-solving through C and C++ — the foundation every higher-level skill stands on.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -101,17 +45,9 @@ Strengthening logic and problem-solving through C and C++ — the foundation eve
 
 <div align="center">
 
-
-
 ![Anubhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anubhav-07CODER&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8a2be2&icon_color=00ffff&text_color=c9d1d9)
 
-
-
-
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anubhav-07CODER&theme=tokyonight&hide_border=true&background=0d1117&ring=8a2be2&fire=00ffff&currStreakLabel=00ffff)
-
-
 
 </div>
 
@@ -119,15 +55,15 @@ Strengthening logic and problem-solving through C and C++ — the foundation eve
 
 <div align="center">
 
-
-
 ![Anubhav's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anubhav-07CODER&theme=tokyo-night&bg_color=0d1117&color=00ffff&line=8a2be2&point=ffffff&area=true&hide_border=true)
-
-
 
 </div>
 
+### 📅 Contribution Calendar
 
+<div align="center">
+
+![Anubhav's Contribution Calendar](https://ghchart.rshah.org/8a2be2/Anubhav-07CODER)
 
 </div>
 
