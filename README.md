@@ -59,14 +59,6 @@
 
 </div>
 
-### 📅 Contribution Calendar
-
-<div align="center">
-
-![Anubhav's Contribution Calendar](https://ghchart.rshah.org/8a2be2/Anubhav-07CODER)
-
-</div>
-
 ---
 
 <div align="center">
