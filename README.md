@@ -1,148 +1,93 @@
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:061b16,50:00c896,100:073b2e&height=200&section=header&text=ANUBHAV-07CODER&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Code%20%7C%20Learn%20%7C%20Build%20%7C%20Grow&descAlignY=60&descSize=17" width="100%" alt="Profile banner"/>
+<!-- README.md window header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1b1e&height=60&section=header&text=%F0%9F%94%B4%20%F0%9F%9F%A1%20%F0%9F%9F%A2%20%20%20README.md&fontSize=22&fontColor=9fb3b8&fontAlign=15" width="100%" alt="README.md"/>
 
-# 👋 Hey, I'm Anubhav!
+<img src="https://github.com/Anubhav-07coder.png" width="130" style="border-radius:50%" alt="Anubhav"/>
 
-### Computer Science & Data Science Student
+# ANUBHAV-07CODER
 
-💻 Aspiring AI & Data Science Engineer
+**B.Tech CSE (Data Science) | GL Bajaj Noida**
 
-*Building projects, exploring technology, and learning something new every day.*
+`Code` · `Learn` · `Build` · `Grow`
 
-<img src="https://img.shields.io/badge/Python-00c896?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Data%20Science-073b2e?style=for-the-badge&logo=databricks&logoColor=white" alt="Data Science"/>
-<img src="https://img.shields.io/badge/AI%20%26%20ML-00a884?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI and Machine Learning"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B"/> <img src="https://img.shields.io/badge/Data%20Science-0f766e?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/AI%2FML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/Web%20Dev-16a34a?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<br/>
+
+![Repositories](https://img.shields.io/badge/Repositories-22-00e5a0?style=flat-square&logo=github&labelColor=0d1b1e)
+![Stars](https://img.shields.io/badge/Stars-12-00e5a0?style=flat-square&logo=github&labelColor=0d1b1e)
+![Followers](https://img.shields.io/badge/Followers-6-00e5a0?style=flat-square&logo=github&labelColor=0d1b1e)
+![Following](https://img.shields.io/badge/Following-5-00e5a0?style=flat-square&logo=github&labelColor=0d1b1e)
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 📈 My Contributions This Year
 
-- 🎓 Pursuing B.Tech in Computer Science and Data Science at GL Bajaj, Noida.
-- 🐍 Learning Python by building practical projects.
-- 📊 Exploring data analysis, visualization, and machine learning.
-- 🌐 Interested in APIs, web development, and software engineering.
-- 🧠 Practising programming logic, DSA, and problem-solving.
-- 🚀 My goal is to build useful applications combining AI, software, and data.
+<div align="center">
+
+**672** contributions · **142** active days · Best day: **56**
+
+<!-- Generated daily by .github/workflows/profile-3d.yml -->
+<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" alt="3D contribution visualization"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anubhav-07coder&bg_color=0d1b1e&color=00e5a0&line=00e5a0&point=ffffff&area=true&area_color=00e5a0&hide_border=true" width="100%" alt="Contribution graph"/>
+
+</div>
+
+---
+
+## 🧠 Language Stack
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anubhav-07coder&layout=compact&bg_color=0d1b1e&title_color=00e5a0&text_color=c9d1d9&hide_border=true&langs_count=6" alt="Top languages"/>
+
+</div>
+
+| Language | Usage | |
+|:--|--:|:--|
+| 🟢 Python | 62% | `████████████████████░░░░░░░░` |
+| 🔵 C++ | 14% | `█████░░░░░░░░░░░░░░░░░░░░░░░` |
+| 🟡 JavaScript | 8% | `███░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| 🟠 HTML | 6% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| 🟣 CSS | 4% | `█░░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+| ⚪ Others | 6% | `██░░░░░░░░░░░░░░░░░░░░░░░░░░` |
+
+---
+
+## 🚀 Projects
+
+| | Project | Stack | What it does |
+|:--:|:--|:--|:--|
+| 🌦️ | **[Weather App](https://github.com/Anubhav-07coder/weather-app)** | Python · API | Live weather for any city |
+| 📊 | **[Data Analysis](https://github.com/Anubhav-07coder/data-analysis)** | Pandas · Matplotlib · Seaborn | Exploratory analysis & visualizations |
+| 💰 | **[Expense Tracker](https://github.com/Anubhav-07coder/expense-tracker)** | Python · File Handling | Track expenses with saved records |
+| 🎮 | **[Mini Games](https://github.com/Anubhav-07coder/mini-games)** | Python · Logic · Fun | Small console games |
+
+<div align="right"><a href="https://github.com/Anubhav-07coder?tab=repositories">view all →</a></div>
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js,mysql,git,github,vscode" alt="Technologies and development tools"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,git,github,vscode,pandas,numpy&theme=dark"/>
 
 </div>
 
-**Currently exploring:** NumPy · Pandas · Matplotlib · Seaborn · SQL · APIs · Machine Learning
-
----
-
-## 🌆 My GitHub Contribution City
+## 📫 Connect
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ANUBHAV-07CODER&show_icons=true&hide_border=true&bg_color=071b17&title_color=00e6a8&icon_color=00c896&text_color=d6f5eb&rank_icon=github" width="49%" alt="GitHub statistics"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANUBHAV-07CODER&layout=compact&hide_border=true&bg_color=071b17&title_color=00e6a8&text_color=d6f5eb" width="49%" alt="Most used programming languages"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ANUBHAV-07CODER&bg_color=071b17&color=d6f5eb&line=00c896&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
+🐺 *Always learning, always building.*
 
 </div>
-
----
-
-## 🏗️ Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 📊 [Student Performance EDA](https://github.com/ANUBHAV-07CODER/Student-Performance-EDA)
-
-Exploring student performance data through exploratory data analysis and visualizations.
-
-**Focus:** Data Analysis · Jupyter Notebook
-
-</td>
-<td width="50%">
-
-### 📈 [Sales Dashboard](https://github.com/ANUBHAV-07CODER/Sales-Dashboard)
-
-A data analysis project focused on exploring sales data and discovering useful insights.
-
-**Focus:** Data Analysis · Visualization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🐍 [Python Projects](https://github.com/ANUBHAV-07CODER/Python-projects)
-
-A collection of Python programs and practical coding experiments.
-
-**Focus:** Python · Programming Logic
-
-</td>
-<td width="50%">
-
-### 🎓 [Student Report Card](https://github.com/ANUBHAV-07CODER/Student-Report-card)
-
-A Python OOP project focused on student report card functionality.
-
-**Focus:** Python · Object-Oriented Programming
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/ANUBHAV-07CODER?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20All%20Repositories-00c896?style=for-the-badge&logo=github&logoColor=white" alt="Explore all repositories"/>
-</a>
-
-</div>
-
----
-
-## 🌱 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/DSA-00c896?style=flat-square" alt="Data structures and algorithms"/>
-<img src="https://img.shields.io/badge/SQL-073b2e?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-00a884?style=flat-square" alt="Data analysis"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-172b26?style=flat-square" alt="Machine learning"/>
-<img src="https://img.shields.io/badge/Web%20Development-073b2e?style=flat-square&logo=html5&logoColor=white" alt="Web development"/>
-
-</div>
-
-- Strengthening Python and object-oriented programming.
-- Practising data structures and algorithms.
-- Learning data analysis and visualization.
-- Exploring machine learning and AI fundamentals.
-- Building better, more useful software projects.
-
-## 🎯 My Vision
-
-To become a versatile engineer who combines **AI, data science, and software development** to create intelligent and practical solutions.
-
-<div align="center">
-
-### 💚 Learn. Build. Debug. Improve. Repeat.
-
-*Every commit is another step forward.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:073b2e,50:00c896,100:061b16&height=110&section=footer" width="100%" alt="Footer banner"/>
-
-</div>
-
